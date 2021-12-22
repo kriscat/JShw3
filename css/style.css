@@ -15,9 +15,9 @@ body {
     height: 500px;
 }
 
-@media(max-width:320px) {
+@media(max-width:425px) {
     .txt {
         margin: 50px 15px;
-        font-size: 20px;
+        font-size: 25px;
     }
 }
